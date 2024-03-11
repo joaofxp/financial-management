@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+
+        This is the way, hello world
       </header>
     </div>
   );
